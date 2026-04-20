@@ -1,0 +1,20 @@
+﻿{
+  "BackGround": {
+    "Image": "バス停_夕方",
+    "Music": "8"
+  },
+  "CG": "",
+  "Chara": [
+    {
+      "Name": "YUU",
+      "Portrait": "キリッと",
+      "Pos": "R",
+      "Scale": "中",
+      "Visible": true
+    }
+  ],
+  "Script": {
+    "File": "script/test3.txt",
+    "Line": 64
+  }
+}

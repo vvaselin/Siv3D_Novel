@@ -1,0 +1,20 @@
+﻿{
+  "BackGround": {
+    "Image": "バス停_日中",
+    "Music": "5"
+  },
+  "CG": "CG1",
+  "Chara": [
+    {
+      "Name": "YUU",
+      "Portrait": "ムッと",
+      "Pos": "R",
+      "Scale": "大",
+      "Visible": true
+    }
+  ],
+  "Script": {
+    "File": "script/test3.txt",
+    "Line": 17
+  }
+}
